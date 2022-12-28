@@ -3,7 +3,7 @@ Ricardo-Valdez-Jr/Ricardo-Valdez-Jr is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World!</h2>
 
 <a href="https://www.linkedin.com/in/ricardo-valdez">
   <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
