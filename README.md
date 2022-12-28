@@ -17,9 +17,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.facebook.com/profile.php?id=100011122144049">
   <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.hackerrank.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
 
 <br />
 
@@ -43,4 +40,7 @@ once it's realesed 🤓.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Valdez-Jr&show_icons=true&hide_border=true)
 
-⭐️ From [iampavangandhi](https://github.com/iampavangandhi)
+Does not include private repositories
+
+⭐️ Modified: [Ricardo-Valdez-Jr](https://github.com/Ricardo-Valdez-Jr)</br>
+⭐️ Credit: [iampavangandhi](https://github.com/iampavangandhi)
