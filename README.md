@@ -8,10 +8,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/ricardo-valdez">
   <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href=["https://github.com/Ricardo-Valdez-Jr">
+<a href="https://github.com/Ricardo-Valdez-Jr">
   <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/ricardo_valdez_jr)">
+<a href="https://www.instagram.com/ricardo_valdez_jr">
   <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100011122144049">
