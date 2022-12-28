@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=Ricardo-Valdez-Jr.Ricardo-Valdez-Jr)
 
 I'm a graduate in Data Analytics & Informatics 🎓 from Florida Gulf Coast University 🏛. I'm a curious individual interested in finding insights from structured/unstructured data and always willing to learn and work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Data Science 🕸️ and working on extracting information from the SEC to get realtime entity data
