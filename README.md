@@ -29,7 +29,7 @@ once it's realesed 🤓.
 ### More about me...
 
 - 🔭 I’m currently working on Python and MariaDB 💻.
-- 🌱 I’m currently learning in the process of learning Deep Learning and Machine Learning 🚀.
+- 🌱 I’m currently in the process of learning Deep Learning and Machine Learning 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Deep Learning and Machine Learning.
 - 📫 How to reach me: contact@ricardovaldezjr.com | [LinkedIn](https://www.linkedin.com/in/ricardo-valdez) | [Portfolio](https://www.ricardovaldezjr.com)
 - 💻 I have worked on C++, Python, Linux Bash, AWS Cloud.
