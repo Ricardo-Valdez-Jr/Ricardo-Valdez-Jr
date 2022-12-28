@@ -34,7 +34,7 @@ once it's realesed 🤓.
 - 📫 How to reach me: contact@ricardovaldezjr.com | [LinkedIn](https://www.linkedin.com/in/ricardo-valdez) | [Portfolio](https://www.ricardovaldezjr.com)
 - 💻 I have worked on C++, Python, Linux Bash, AWS Cloud.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Hire [me](mailto:pavangandhi100@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
+- ⚡ Hire [me](mailto:contact@ricardovaldezjr.com?Subject=Hello%20Ricardo) 👨‍💻.
 
 ### Show some ❤️ by starring some of the repositories!
 
